@@ -3,8 +3,8 @@
   layout: home
   hero:
     image: 
-      src: ../images/logo.jpg
-      alt: 前端吧
+      src: /images/logo.jpg
+      alt: 菁华浮梦
     name: 测试页面
     text: 页面文本
     tagline: 收集有一大批前端相关的技术网站，包括Vue、React等技术资料的生态网站，方便快速访问。
