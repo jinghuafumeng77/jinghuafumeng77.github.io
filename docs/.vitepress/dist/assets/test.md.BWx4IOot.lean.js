@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as n,a4 as e}from"./chunks/framework.DA5bMIKg.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"test.md","filePath":"test.md"}'),t={name:"test.md"},p=e("",2),i=[p];function l(o,c,d,r,_,h){return n(),s("div",null,i)}const g=a(t,[["render",l]]);export{f as __pageData,g as default};
