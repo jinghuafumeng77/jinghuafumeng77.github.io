@@ -6,7 +6,7 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/jinghuafumeng77.github.io/images/logo.jpg'}],
   ],
-  base: '/jinghuafumeng77.github.io/',
+  base: '/jinghuafumeng77.github.io/repo/',
   appearance: false,
   description: "描述",
   themeConfig: {
